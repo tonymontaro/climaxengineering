@@ -1,0 +1,20 @@
+{
+  "name": "climax",
+  "version": "1.0.0",
+  "description": "climax engineering web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "climax",
+    "engineering"
+  ],
+  "author": "Anthony Ngene",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0"
+  }
+}

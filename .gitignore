@@ -1,0 +1,4 @@
+.DS_Store
+.heroku/
+.profile.d/
+node_modules/
